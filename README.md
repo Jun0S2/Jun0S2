@@ -14,7 +14,7 @@
 <!-- 이력서랑 이메일 넣을 자리 -->
 
 <p align="center"> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun0S2%2Fhit-counter&count_bg=%23EDAA4E&title_bg=%237A7A7A&icon=gitlab.svg&icon_color=%23FB8200&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun0S2%2Fhit-counter&count_bg=%23FFD902&title_bg=%233B3B3B&icon=gitlab.svg&icon_color=%23FB8200&title=hits&edge_flat=false"/></a>
 <a href="mailto:hp0006@mix.wvu.edu" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-F73A6D?logo=gmail&logoColor=white&link=mailto:hp0006@mix.wvu.edu"/>
 </a>
