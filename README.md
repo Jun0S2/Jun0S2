@@ -30,13 +30,17 @@
     </div>
 </p>
                                                  
-
+## ⚡ Problem Solving
 <p align=center>
+  <!-- 백준 -->
         <div align="center">
             <a href="https://solved.ac/wjh51333" title="Go to Source">
                 <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
             </a>
         </div>
+        <!-- study link -->
+        <!-- My Algo-->
+        <!-- Previous Algo-->
 </p>
 
 <p align="center"> 
