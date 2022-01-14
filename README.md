@@ -24,6 +24,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0S2&hide=TeX&layout=compact)
 
 
+<p align=center>
+        <div align="center">
+            <a href="https://solved.ac/wjh51333" title="Go to Source">
+                <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
+            </a>
+        
+        </div>
+     </p>
 
 <p align="center"> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun0S2%2Fhit-counter&count_bg=%235A739C&title_bg=%23D1BAD0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
