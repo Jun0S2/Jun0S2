@@ -18,6 +18,9 @@
 <a href="mailto:hp0006@mix.wvu.edu" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-F73A6D?logo=gmail&logoColor=white&link=mailto:hp0006@mix.wvu.edu"/>
 </a>
+  <a href="https://befitting-locust-a2c.notion.site/June-Park-9a0d59ecf3b242bf9fba1b2f935629c1" target="_blank">
+    <img src =  "https://img.shields.io/badge/-Portfolio-violet?&logo=notion&logoColor=white&link=https://befitting-locust-a2c.notion.site/June-Park-9a0d59ecf3b242bf9fba1b2f935629c1"/>
+</a>
 </p>
 
 <!-- Tech Stacks -->
