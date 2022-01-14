@@ -19,15 +19,16 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0S2&hide=TeX&layout=compact&theme=great-gatsby)
-
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-              <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=Jun0S2&count_private=true&custom_title=👻June's&nbsp;GitHub&nbsp;github&nbsp;👻&theme=gruvbox&show_icons=true" />
-            </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-              <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=Jun0S2&count_private=true&custom_title=👻June's&nbsp;GitHub&nbsp;github&nbsp;👻&theme=great-gatsby&show_icons=true" />
-            </a>
+<!-- Div-->
+<p align=center>
+    <div align="center" float="left">
+          <!-- most used languages-->
+   <img align="center" height= "177.27px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0S2&hide=TeX&layout=compact&theme=gruvbox" />
+          <!-- stats-->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=Jun0S2&count_private=true&custom_title=👻June's&nbsp;GitHub&nbsp;github&nbsp;👻&theme=gruvbox&show_icons=true" /></a>
+    </div>
+</p>
                                                  
 
 <p align=center>
