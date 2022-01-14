@@ -20,18 +20,23 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jun0S2&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0S2&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0S2&hide=TeX&layout=compact&theme=great-gatsby)
 
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+              <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=Jun0S2&count_private=true&custom_title=👻June's&nbsp;GitHub&nbsp;github&nbsp;👻&theme=gruvbox&show_icons=true" />
+            </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+              <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=Jun0S2&count_private=true&custom_title=👻June's&nbsp;GitHub&nbsp;github&nbsp;👻&theme=great-gatsby&show_icons=true" />
+            </a>
+                                                 
 
 <p align=center>
         <div align="center">
             <a href="https://solved.ac/wjh51333" title="Go to Source">
                 <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
             </a>
-        
         </div>
-     </p>
+</p>
 
 <p align="center"> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun0S2%2Fhit-counter&count_bg=%235A739C&title_bg=%23D1BAD0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
