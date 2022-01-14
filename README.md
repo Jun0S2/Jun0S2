@@ -33,7 +33,7 @@
 
 <!-- MOST USED LANGUAGES & GIT STATUS-->
 <p align=center>
-    <div align="center" float="left">
+    <div align="center">
           <!-- most used languages-->
    <img align="center" height= "177.27px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0S2&hide=TeX&layout=compact&theme=gruvbox" />
           <!-- stats-->
