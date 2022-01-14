@@ -1,8 +1,16 @@
-<h1 align="center">👾BEEP BOOP BEEP👾</h1>
+
+<h3 align="center">👾BEEP BOOP BEEP👾</h3>
+<!-- NAME -->
 <p align="center">
-  <br/>
-  <img src="./assets/arcade-font-writer.png"/>
+  <img src="./assets/arcade-font-writer(1).png"/>
 </p>
+<!-- JOKE -->
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" />
+</p>
+
+
+
 
 ## ⚡ Technologies
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
