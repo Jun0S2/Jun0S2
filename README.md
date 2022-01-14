@@ -45,21 +45,28 @@
 <!-- PS REPOS -->
 ## ⚡ Problem Solving
 <p align=center>
-  <!-- 백준 -->
-        <div align="center">
-            <a href="https://solved.ac/wjh51333" title="Go to Source">
-                <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
-            </a>
-
-
-  <!--  AlgorithmStudy -->
-  <!-- Team Algo Study -->
+   <div align="center">
+      <!-- 백준 -->  
+      <a href="https://solved.ac/wjh51333" title="Go to Source">
+        <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
+       </a>
+      <!--  AlgorithmStudy -->         
+      <a href="https://github.com/Jun0S2/AlgorithmStudy" title="Go to AlgorithmStudy Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=AlgorithmStudy&theme=gruvbox&show_icons=true&show_owner" alt="AlgorithmStudy Repo" />
+      </a>
+      <!-- Team Algo Study -->
+      <a href="https://github.com/algostudy0720/Problem_Solving_Jail" title="Go to Team Algo STUDY Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=algostudy0720/Problem_Solving_Jail&theme=gruvbox&show_icons=true" alt=" Team Algo STUDY Repo" />
+      </a>
   <!-- CS Study -->   
+        <a href="https://github.com/Jun0S2/CS-STUDY" title="Go to CS STUDY Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=CS-STUDY&theme=gruvbox&show_icons=true&show_owner" alt="CS STUDY Repo" />
+      </a>
 </div>
 </p>
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=AlgorithmStudy)](https://github.com/Jun0S2/AlgorithmStudy)
-
+-->
 
 <p align="center"> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun0S2%2Fhit-counter&count_bg=%235A739C&title_bg=%23D1BAD0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
