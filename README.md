@@ -58,7 +58,7 @@
 <p align=center>
    <div align="center">
       <!-- 백준 -->
-      <a href="https://solved.ac/wjh51333" title="Go to Source">
+      <a href="https://solved.ac/shun12" title="Go to Source">
         <img align="center" border="1px solid white" height="150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
      </a>
       <!--  AlgorithmStudy -->         
