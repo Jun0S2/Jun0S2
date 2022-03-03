@@ -53,21 +53,29 @@
     </div>
 </p>
 
-<!-- PS REPOS -->
+<!-- PS REPOShttps://github.com/Jun0S2/Problem_Solving_Jail-->
 ## ⚡ Problem Solving
 <p align=center>
    <div align="center">
-      <!-- 백준 -->
+      <!-- Previous Code : 
+      백준 
       <a href="https://solved.ac/shun12" title="Go to Source">
         <img align="center" border="1px solid white" height="150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
      </a>
-      <!--  AlgorithmStudy -->         
-      <a href="https://github.com/Jun0S2/AlgorithmStudy" title="Go to AlgorithmStudy Repo">
+    Algorithm Study
+   <a href="https://github.com/Jun0S2/AlgorithmStudy" title="Go to AlgorithmStudy Repo">
          <img align="center"  height = "150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=AlgorithmStudy&theme=great-gatsby&show_icons=true&show_owner=true" alt="AlgorithmStudy Repo" />
      </a>
-</div>
-</p>
-<p align=center>
+      -->
+     <!-- Algorithm Group Study-->  
+        <a href="https://github.com/Jun0S2/Problem_Solving_Jail" title="Go to Problem Solving Jail Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=Problem_Solving_Jail&theme=great-gatsby&show_icons=true&show_owner=true" alt="Problem Solving Jail Repo" />
+        </a>
+        <!--  Algorithm Personal Study -->        
+      <a href="https://github.com/Jun0S2/AlgorithmStudy" title="Go to AlgorithmStudy Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=AlgorithmStudy&theme=great-gatsby&show_icons=true&show_owner=true" alt="AlgorithmStudy Repo" />
+      </a>
+
    <div align="center">    
         <a href="https://github.com/Jun0S2/CS-STUDY" title="Go to CS STUDY Repo">
          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=CS-STUDY&theme=great-gatsby&show_icons=true&show_owner=true" alt="CS STUDY Repo" />
