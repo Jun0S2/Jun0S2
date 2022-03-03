@@ -43,9 +43,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!--
-(MOST USED LANGUAGES & GIT STATUS h177.27 w450)
--->
+<!--(MOST USED LANGUAGES & GIT STATUS h177.27 w450)-->
 
 <p align=center>
     <div align="center">
@@ -54,7 +52,18 @@
     </div>
 </p>
 
-<!-- PS REPOShttps://github.com/Jun0S2/Problem_Solving_Jail-->
+<!-- Baekjoon lv -->
+## 🧪 BaekJoon Progress
+
+<p align=center>
+   <div align="center">
+     <a href="https://solved.ac/shun12" title="Go to Source">
+        <img align="center" border="1px solid white" height="150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
+     </a>
+   </div>
+</p>
+
+<!-- PS REPO-->
 ## ⚡ Problem Solving
 <p align=center>
    <div align="center">
