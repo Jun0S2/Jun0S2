@@ -67,16 +67,6 @@
 ## ⚡ Problem Solving
 <p align=center>
    <div align="center">
-      <!-- Previous Code : 
-      백준 
-      <a href="https://solved.ac/shun12" title="Go to Source">
-        <img align="center" border="1px solid white" height="150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
-     </a>
-    Algorithm Study
-   <a href="https://github.com/Jun0S2/AlgorithmStudy" title="Go to AlgorithmStudy Repo">
-         <img align="center"  height = "150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=AlgorithmStudy&theme=great-gatsby&show_icons=true&show_owner=true" alt="AlgorithmStudy Repo" />
-     </a>
-      -->
      <!-- Algorithm Group Study-->  
         <a href="https://github.com/Jun0S2/Problem_Solving_Jail" title="Go to Problem Solving Jail Repo">
          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=Problem_Solving_Jail&theme=great-gatsby&show_icons=true&show_owner=true" alt="Problem Solving Jail Repo" />
@@ -85,7 +75,7 @@
       <a href="https://github.com/Jun0S2/AlgorithmStudy" title="Go to AlgorithmStudy Repo">
          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=AlgorithmStudy&theme=great-gatsby&show_icons=true&show_owner=true" alt="AlgorithmStudy Repo" />
       </a>
-
+</div>
    <div align="center">    
         <a href="https://github.com/Jun0S2/CS-STUDY" title="Go to CS STUDY Repo">
          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=CS-STUDY&theme=great-gatsby&show_icons=true&show_owner=true" alt="CS STUDY Repo" />
@@ -94,5 +84,31 @@
       <a href="https://github.com/Jun0S2/FASTCAMPUS" title="Go to AlgorithmStudy Repo">
          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=FASTCAMPUS&theme=great-gatsby&show_icons=true&show_owner=true" alt="FASTCAMPUS Repo" />
       </a>
-</div>
+</div> 
+</p>
+
+
+## ⚡ Projects
+
+<p align=center>
+   <div align="center">
+   <!-- Challympic -->  
+        <a href="https://github.com/Jun0S2/Challympic" title="Go to Challympic Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=Challympic&theme=great-gatsby&show_icons=true&show_owner=true" alt="Challympic Repo" />
+        </a>
+   <!-- iRobot  -->  
+        <a href="https://github.com/Jun0S2/Mobile-Robotics-Final-Project" title="Go to Mobile-Robotics-Final-Project Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=Mobile-Robotics-Final-Project&theme=great-gatsby&show_icons=true&show_owner=true" alt="Mobile-Robotics-Final-Project" />
+        </a>
+     </div>
+    <div align="center">
+   <!-- MicroController -->  
+        <a href="https://github.com/Jun0S2/Maze-Solving-Micro-controller-Mouse" title="Go to Maze-Solving-Micro-controller-Mouse Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=Maze-Solving-Micro-controller-Mouse&theme=great-gatsby&show_icons=true&show_owner=true" alt="Maze-Solving-Micro-controller-Mouse Repo" />
+        </a>
+   <!-- WVU-Capstone 코드반출 실패  -->  
+        <a href="https://github.com/Jun0S2/WVU-Capstone" title="Go to WVU-Capstone Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=WVU-Capstone&theme=great-gatsby&show_icons=true&show_owner=true" alt="WVU-Capstone" />
+        </a>
+     </div>
 </p>
