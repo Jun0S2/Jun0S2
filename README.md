@@ -11,6 +11,10 @@
   <img src="./assets/arcade-font-writer (1).png"/>
 </p>
 
+<p align="center"> Hi All, I graduated from WVU with a bachelor's degree in CPE and minors in Mathematics and CS.<br/> I have work experience as College CS/CPE/EE tutor, Project Coordinator, and System Validation Engineer. <br/> I'm currently learning full-stack developing in Samsung's Software Academy for Youth and <br/> seeking more opportunities for programming 😀
+</p>
+<br/>
+
 <!-- 이력서랑 이메일 넣을 자리 -->
 
 <p align="center"> 
