@@ -101,6 +101,18 @@
 ## ⚡ Projects
 
 <p align=center>
+     <div align="center">
+     <div align="center">
+   <!-- IBG -->  
+        <a href="https://github.com/Jun0S2/IBG" title="Go to IBG Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=IBG&theme=great-gatsby&show_icons=true&show_owner=true" alt="IBG Repo" />
+        </a>
+          <!-- Portfolio mini project -->  
+        <a href="https://github.com/Jun0S2/portfolio" title="Go to portfoliov Repo">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=portfolio&theme=great-gatsby&show_icons=true&show_owner=true" alt="portfolio Repo" />
+        </a>
+     </div>
+ 
    <div align="center">
    <!-- Challympic -->  
         <a href="https://github.com/Jun0S2/Challympic" title="Go to Challympic Repo">
