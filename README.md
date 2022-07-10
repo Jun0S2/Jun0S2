@@ -11,11 +11,11 @@
   <img src="./assets/arcade-font-writer (1).png"/>
 </p>
 
-<p align="center"> Hi All, I graduated from WVU with a bachelor's degree in CPE and minors in Mathematics and CS.<br/> <h2> Previous Activities </h2> 1. College CS/CPE/EE tutor<br/>
-2. Project Coordinator<br/>
-3. System Validation Engineer<br/>
-4. Full-stack education from Samsung's Software Academy for Youth <br/> 
-
+<p align="center"> Hi All, I graduated from WVU with a bachelor's degree in CPE and minors in Mathematics and CS.<br/> <h2> Experiences </h2> 1. College CS/CPE/EE tutor<br/>
+2. Project Coordinator (LA, USA) <br/>
+3. System Validation Engineer (MI, USA) <br/>
+4. Full-stack education from Samsung's Software Academy for Youth (Daejeon, KOR) <br/> 
+5. SW QA Manager Internship at LG Electronics (Seoul, KOR) <br/> 
 
 <br/>
 I am currently working as a SW Research Engineer at LG and I am seeking for more opportunities in programming 😀
