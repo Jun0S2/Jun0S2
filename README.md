@@ -16,9 +16,10 @@
 3. System Validation Engineer (MI, USA) <br/>
 4. Full-stack education from Samsung's Software Academy for Youth (Daejeon, KOR) <br/> 
 5. SW QA Manager Internship at LG Electronics (Seoul, KOR) <br/> 
+6. Middleware developer at Hyundai Mobis (Gyeongi, KOR) <br/> 
 
 <br/>
-I am currently working as a SW Research Engineer at LG and I am seeking for more opportunities in programming 😀
+I am currently working as a SW Developer at Hyundai Mobis and I am seeking for more opportunities in programming 😀
 </p>
 <br/>
 
@@ -35,15 +36,20 @@ I am currently working as a SW Research Engineer at LG and I am seeking for more
 </p>
 
 <!-- Tech Stacks -->
+## ⚡Major Skills / Tools
 
-## ⚡ Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![C++11](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+## ⚡ Web Skills
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
@@ -58,6 +64,7 @@ I am currently working as a SW Research Engineer at LG and I am seeking for more
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 <!--(MOST USED LANGUAGES & GIT STATUS h177.27 w450)-->
