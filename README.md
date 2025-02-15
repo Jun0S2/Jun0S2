@@ -43,8 +43,10 @@ I am currently working as a SW Developer at Hyundai Mobis and I am seeking for m
 ![C++11](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-## ⚡ Web Skills
-
+## ⚡ Skills
+   <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
+</a>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -85,9 +87,6 @@ I am currently working as a SW Developer at Hyundai Mobis and I am seeking for m
         <img align="center" border="1px solid white" height="150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
      </a>
    </div>
-   <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
-</a>
 </p>
 
 <!-- PS REPO-->
