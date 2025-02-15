@@ -77,7 +77,7 @@ I am currently working as a SW Developer at Hyundai Mobis and I am seeking for m
 </p>
 
 <!-- Baekjoon lv -->
-## 🧪 BaekJoon Progress
+## 🧪 Other Progress
 
 <p align=center>
    <div align="center">
@@ -85,6 +85,9 @@ I am currently working as a SW Developer at Hyundai Mobis and I am seeking for m
         <img align="center" border="1px solid white" height="150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac프로필" />
      </a>
    </div>
+   <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
+</a>
 </p>
 
 <!-- PS REPO-->
