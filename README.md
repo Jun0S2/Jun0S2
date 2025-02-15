@@ -33,6 +33,9 @@ I am currently working as a SW Developer at Hyundai Mobis and I am seeking for m
   <a href="https://befitting-locust-a2c.notion.site/June-Park-9a0d59ecf3b242bf9fba1b2f935629c1" target="_blank">
     <img src =  "https://img.shields.io/badge/-Portfolio-violet?&logo=notion&logoColor=white&link=https://befitting-locust-a2c.notion.site/June-Park-9a0d59ecf3b242bf9fba1b2f935629c1" target="_blank"/>
 </a>
+     <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
+</a>
 </p>
 
 <!-- Tech Stacks -->
