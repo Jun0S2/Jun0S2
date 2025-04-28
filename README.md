@@ -134,9 +134,6 @@
   <a href="https://github.com/Jun0S2/IBG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=IBG&theme=great-gatsby" />
   </a>
-  <a href="https://github.com/Jun0S2/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=portfolio&theme=great-gatsby" />
-  </a>
   <a href="https://github.com/Jun0S2/Challympic">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=Challympic&theme=great-gatsby" />
   </a>
