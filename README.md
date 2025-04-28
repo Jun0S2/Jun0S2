@@ -28,7 +28,7 @@
   Commissioned a responsive Medspa webpage with dermatologist insights.
   
 - **[Consent App](https://github.com/Jun0S2/consent-app)** (PA, USA)  
-  Developed an offline-capable consent form application for iPad using React and Capacitor.
+  Developed an offline-capable consent form application for Android + iOS using React and Capacitor.
 
 ---
 
