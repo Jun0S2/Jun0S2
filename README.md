@@ -25,7 +25,7 @@
 
 ## 🤝 Commission
 - **[K-GLOE](https://www.k-gloe.com)** (PA, USA)  
-  Built a skincare recommendation service based on dermatologist insights.
+  Commissioned a responsive Medspa webpage with dermatologist insights.
   
 - **[Consent App](https://github.com/Jun0S2/consent-app)** (PA, USA)  
   Developed an offline-capable consent form application for iPad using React and Capacitor.
