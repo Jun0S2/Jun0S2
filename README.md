@@ -21,7 +21,14 @@
 3. System Validation Engineer (MI, USA)  
 4. Full-stack Education from Samsung SSAFY (Daejeon, KOR)  
 5. SW QA Manager Internship at LG Electronics (Seoul, KOR)  
-6. Middleware Developer at Hyundai Mobis (Gyeongi, KOR)  
+6. Middleware Developer at Hyundai Mobis (Gyeongi, KOR)
+
+## 🤝 Commission
+- **K-GLOE** (PA, USA)  
+  Built a skincare recommendation service based on dermatologist insights.
+  
+- **[Consent App](https://github.com/Jun0S2/consent-app)** (PA, USA)  
+  Developed an offline-capable consent form application for iPad using React and Capacitor.
 
 ---
 
@@ -115,17 +122,17 @@
 ## 🚀 Projects
 
 <p align="center">
-  <a href="https://k-gloe.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=kgloe&theme=great-gatsby" />
-  </a>
   <a href="https://github.com/Jun0S2/devoca/blob/main/frontend/CHANGELOG.md">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=IBG&theme=great-gatsby" />
-  </a>
-    <a href="https://github.com/Jun0S2/devoca/blob/main/frontend/CHANGELOG.md">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=devoca&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/Jun0S2/consent-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=consent-app&theme=great-gatsby" />
   </a>
   <a href="https://github.com/Jun0S2/ReviewSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=ReviewSystem&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/Jun0S2/IBG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=IBG&theme=great-gatsby" />
   </a>
   <a href="https://github.com/Jun0S2/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=portfolio&theme=great-gatsby" />
