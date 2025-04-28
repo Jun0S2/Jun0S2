@@ -24,7 +24,7 @@
 6. Middleware Developer at Hyundai Mobis (Gyeongi, KOR)
 
 ## 🤝 Commission
-- **K-GLOE** (PA, USA)  
+- **[K-GLOE](https://www.k-gloe.com)** (PA, USA)  
   Built a skincare recommendation service based on dermatologist insights.
   
 - **[Consent App](https://github.com/Jun0S2/consent-app)** (PA, USA)  
