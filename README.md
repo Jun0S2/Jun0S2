@@ -11,22 +11,24 @@
 </p>
 
 <p align="center">
-  Hi All 👋 <br/>
-  I graduated from WVU with a Bachelor's degree in CPE and minors in Mathematics and CS.
+  Guten Tag 👋 <br/>
+I'm pursuing a Master's in Scientific Computing at Technische Universität Berlin starting in Winter 2025. <br/>
+My focus will be on mathematics, simulations, and data analysis to solve real-world problems by applying my background in computer engineering and scientific knowledge.
 </p>
 
 ## 💼 Experiences
-1. College CS/CPE/EE Tutor  
-2. Project Coordinator (LA, USA)  
-3. System Validation Engineer (MI, USA)  
-4. Full-stack Education from Samsung SSAFY (Daejeon, KOR)  
-5. SW QA Manager Internship at LG Electronics (Seoul, KOR)  
-6. Middleware Developer at Hyundai Mobis (Gyeongi, KOR)
+
+0.  `Education` College CS/CPE/EE Tutor
+1.  `Train Communication System` Project Coordinator (LA, USA)
+2.  `Automotive` System Validation Engineer (MI, USA)
+3.  `Education` Full-stack Education from Samsung SSAFY (Daejeon, KOR)
+4.  `Automotive` SW QA Manager Internship at LG Electronics (Seoul, KOR)
+5.  `Automotive` Middleware Developer at Hyundai Mobis (Gyeongi, KOR)
 
 ## 🤝 Commission
+
 - **[K-GLOE](https://www.k-gloe.com)** (PA, USA)  
   Commissioned a responsive Medspa webpage with dermatologist insights.
-  
 - **[Consent App](https://github.com/Jun0S2/consent-app)** (PA, USA)  
   Developed an offline-capable consent form application for Android + iOS using React and Capacitor.
 
@@ -38,14 +40,8 @@
   <a href="mailto:hp0006@mix.wvu.edu">
     <img src="https://img.shields.io/badge/-Gmail-F73A6D?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://befitting-locust-a2c.notion.site/June-Park-9a0d59ecf3b242bf9fba1b2f935629c1" target="_blank">
+  <a href="https://grape-nyala-5a9.notion.site/June-Park-Portfolio-fa2327da2e414369a3026699d1a57227" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-violet?logo=notion&logoColor=white" />
-  </a>
-  <a href="https://hhpluscertificateofcompletion.oopy.io/">
-    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
-  </a>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jun0S2&count_bg=%23FFD902&title_bg=%233B3B3B&icon=gitlab.svg&icon_color=%23FB8200&title=hits&edge_flat=false"/>
   </a>
 </p>
 
@@ -100,25 +96,6 @@
 
 ---
 
-## 🔍 Problem Solving Repositories
-
-<p align="center">
-  <a href="https://github.com/Jun0S2/Problem_Solving_Jail">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=Problem_Solving_Jail&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/Jun0S2/AlgorithmStudy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=AlgorithmStudy&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/Jun0S2/CS-STUDY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=CS-STUDY&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/Jun0S2/FASTCAMPUS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=FASTCAMPUS&theme=great-gatsby" />
-  </a>
-</p>
-
----
-
 ## 🚀 Projects
 
 <p align="center">
@@ -147,3 +124,24 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=WVU-Capstone&theme=great-gatsby" />
   </a>
 </p>
+
+---
+
+## 🔍 Problem Solving Repositories
+
+<p align="center">
+  <a href="https://github.com/Jun0S2/Problem_Solving_Jail">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=Problem_Solving_Jail&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/Jun0S2/AlgorithmStudy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=AlgorithmStudy&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/Jun0S2/CS-STUDY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=CS-STUDY&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/Jun0S2/FASTCAMPUS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=FASTCAMPUS&theme=great-gatsby" />
+  </a>
+</p>
+
+---
