@@ -49,17 +49,10 @@ My focus will be on mathematics, simulations, and data analysis to solve real-wo
 
 ## ⚙️ Major Skills & Tools
 
+
 ![C++11](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -67,13 +60,9 @@ My focus will be on mathematics, simulations, and data analysis to solve real-wo
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
 
@@ -84,21 +73,16 @@ My focus will be on mathematics, simulations, and data analysis to solve real-wo
   <img height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0S2&layout=compact&theme=great-gatsby" />
 </p>
 
----
-
-## 🧪 Algorithm Progress
-
-<p align="center">
-  <a href="https://solved.ac/shun12">
-    <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shun12" alt="Solved.ac profile" />
-  </a>
-</p>
-
----
 
 ## 🚀 Projects
 
 <p align="center">
+  <a href="https://github.com/TU-Berlin-SC/Scientific_Computing_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-Berlin-SC&repo=Scientific_Computing_Project&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/TU-Berlin-SC/FEM-Battery-Diagnosis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-Berlin-SC&repo=FEM-Battery-Diagnosis&theme=great-gatsby" />
+  </a>
   <a href="https://github.com/Jun0S2/devoca/blob/main/frontend/CHANGELOG.md">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=devoca&theme=great-gatsby" />
   </a>
