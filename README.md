@@ -74,15 +74,21 @@ My focus will be on mathematics, simulations, and data analysis to solve real-wo
 </p>
 
 
-## 🚀 Projects
+### Scientific Computing @ TU Berlin
 
 <p align="center">
   <a href="https://github.com/TU-Berlin-SC/Scientific_Computing_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-Berlin-SC&repo=Scientific_Computing_Project&theme=great-gatsby" />
+    <img src="https://img.shields.io/badge/N--Dimensional_Minesweeper-violet?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/TU-Berlin-SC/FEM-Battery-Diagnosis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-Berlin-SC&repo=FEM-Battery-Diagnosis&theme=great-gatsby" />
+    <img src="https://img.shields.io/badge/FEM_Battery_Diagnosis-violet?style=for-the-badge&logo=github" />
   </a>
+</p>
+
+
+## Projects
+
+<p align="center">
   <a href="https://github.com/Jun0S2/devoca/blob/main/frontend/CHANGELOG.md">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jun0S2&repo=devoca&theme=great-gatsby" />
   </a>
@@ -111,7 +117,7 @@ My focus will be on mathematics, simulations, and data analysis to solve real-wo
 
 ---
 
-## 🔍 Problem Solving Repositories
+## Problem Solving Repositories
 
 <p align="center">
   <a href="https://github.com/Jun0S2/Problem_Solving_Jail">
