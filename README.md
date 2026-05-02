@@ -69,7 +69,7 @@ My focus will be on mathematics, simulations, and data analysis to solve real-wo
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=Jun0S2&show_icons=true&theme=great-gatsby&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jun0S2&theme=github_dark" />
 <img height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0S2&layout=compact&theme=great-gatsby" />
 </p>
 
